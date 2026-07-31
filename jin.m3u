@@ -76,7 +76,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6afa4754bc15dd28ab6806f417d319d:6a74ef2884813547109ee96098610387
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1785506112~exp=1785527712~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=1e91fc4a6a7c670764603e89adc0c60ac168890c42e7e21a815a2fb23ae698b0
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1785528042~exp=1785549642~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=ba50be8ceff594ee34b079cc6900475a63b2c7965e510209467a9797c3c89b14
 
 #EXTINF:-1 tvg-id="1154" group-title="Movies" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2.png",Star Gold 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
