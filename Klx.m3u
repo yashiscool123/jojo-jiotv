@@ -64,7 +64,7 @@
               </g>
             </svg>
           </a>
-          <a class="tgme_head_right_btn" href="//telegram.org/dl?tme=8dc48c03f87c631065_12273566867623771502">
+          <a class="tgme_head_right_btn" href="//telegram.org/dl?tme=14e9fa807c2f419267_11140379257422004862">
             Download
           </a>
         </div>
@@ -149,4 +149,4 @@ if (window.matchMedia) {
     </script>
   </body>
 </html>
-<!-- page generated in 24.02ms -->
+<!-- page generated in 14ms -->
