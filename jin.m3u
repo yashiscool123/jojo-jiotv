@@ -18,8 +18,8 @@
     "keyId": "ab947ddbb9795d38bff35597b4f73108",
     "key": "2671e22eb7dc174c35b6aad4b113f7b0",
     "logo": "https://jiotv.catchup.cdn_jio.com/dare_images/images/Sports18_Khel.png",
-    "cookie": "__hdnea__=st=1786607962~exp=1786629562~acl=/bpk-tv/StarSportsKhel_BTS/WDVLive/*~hmac=dc970fb0227670eb38105b6939d800876ff8c378e87c6ad9bbadfb667acb537e",
-    "expire_time": "1786629562"
+    "cookie": "Error: No Token found (Status 520)",
+    "expire_time": ""
   },
   {
     "name": "Zee Marathi",
@@ -29,8 +29,8 @@
     "keyId": "95c378d17d3d5bbabf9ec086820ece00",
     "key": "dbbce65eaf9673918703d3bcb3131b42",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeeMarathi.png",
-    "cookie": "__hdnea__=st=1786600762~exp=1786622362~acl=/bpk-tv/ZeeMarathi_BTS/WDVLive/*~hmac=d7bab3f467673ce8e4e9388dd061f2e5dd3d14e019c0f3f53dc26da24da33baa",
-    "expire_time": "1786622362"
+    "cookie": "Error: No Token found (Status 520)",
+    "expire_time": ""
   },
   {
     "name": "Zee Talkies",
@@ -73,8 +73,8 @@
     "keyId": "90d8713ba5e85d779d005b1f14a5bc8d",
     "key": "33650314fe1e945017640ba9878c5de9",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeeCinema.png",
-    "cookie": "__hdnea__=st=1786607961~exp=1786629561~acl=/bpk-tv/ZeeCinema_BTS/WDVLive/*~hmac=3411635c19cca63123e11b193f705c2e72797331fa5c649ab96ae9a216044d5c",
-    "expire_time": "1786629561"
+    "cookie": "Error: No Token found (Status 520)",
+    "expire_time": ""
   },
   {
     "name": "Zee TV",
@@ -84,8 +84,8 @@
     "keyId": "135fa2c3db6756a2a89dc08c033680ec",
     "key": "5d2ed0c831759179354b2151a2cb0566",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeeTV.png",
-    "cookie": "__hdnea__=st=1786607961~exp=1786629561~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=b83ddae62954bf9f644a5055e5da95b7511a2f724d5754e4dc375a2526ecaea4",
-    "expire_time": "1786629561"
+    "cookie": "Error: No Token found (Status 522)",
+    "expire_time": ""
   },
   {
     "name": "Zee Bollywood",
@@ -95,8 +95,8 @@
     "keyId": "5895b358bf9f57a0addbec524e473919",
     "key": "8fddf9c4394cb4984bafa3aaffb7dcca",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeeBollywood.png",
-    "cookie": "__hdnea__=st=1786607961~exp=1786629561~acl=/bpk-tv/ZeeBollywood_BTS/WDVLive/*~hmac=a03bad47b57bbbac1466347c04f1076f48316fb06cc9bdddc32ecb5529dcc367",
-    "expire_time": "1786629561"
+    "cookie": "Error: No Token found (Status 522)",
+    "expire_time": ""
   },
   {
     "name": "Zee Zest HD",
@@ -106,7 +106,7 @@
     "keyId": "a19c52e13a755afaa457a3c8488f4822",
     "key": "89dc06fb26e0fc72e9b9a1226073c8a2",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png",
-    "cookie": "Error: No Token found (Status 404)",
+    "cookie": "Error: No Token found (Status 522)",
     "expire_time": ""
   },
   {
