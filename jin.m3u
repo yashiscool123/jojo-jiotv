@@ -7,7 +7,7 @@
     "keyId": "71719eea0bbb5319a4e854ac52ea7871",
     "key": "752ed8f45c43ed858af4c1716c05241a",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png",
-    "cookie": "Error: No Token found (Status 520)",
+    "cookie": "Error: No Token found (Status 404)",
     "expire_time": ""
   },
   {
@@ -40,8 +40,8 @@
     "keyId": "509216860f8e594aaf7e921296f53851",
     "key": "536df1e35e2bb055be0117b51db8139c",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeeTalkies.png",
-    "cookie": "__hdnea__=st=1786672764~exp=1786694364~acl=/bpk-tv/ZeeTalkies_BTS/WDVLive/*~hmac=59ad9d6721179bc316de9ba422efa5c37e1b63a31997b3eda36060d0c8a0c16b",
-    "expire_time": "1786694364"
+    "cookie": "__hdnea__=st=1786694364~exp=1786715964~acl=/bpk-tv/ZeeTalkies_BTS/WDVLive/*~hmac=ab3ecccfe8bf1a791af78976e3addb9c3da809187a515d03631719236b3686c1",
+    "expire_time": "1786715964"
   },
   {
     "name": "Zee Yuva",
@@ -51,8 +51,8 @@
     "keyId": "fa2af2feb3395a7b8b931bd772683831",
     "key": "411e7ecb174921ff97cc0162c2372c69",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeeYuva.png",
-    "cookie": "__hdnea__=st=1786672764~exp=1786694364~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=89a4d5bf680df817f2b1fb5661932f6eb71c98109e326dc0a1152baf5b1cb2fd",
-    "expire_time": "1786694364"
+    "cookie": "__hdnea__=st=1786694364~exp=1786715964~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=86fa7ae041c5ef2299b3ebcc625286b932d3cd1794418fd2b7053b31702097ba",
+    "expire_time": "1786715964"
   },
   {
     "name": "Zee Action",
@@ -62,8 +62,8 @@
     "keyId": "a881e2bda4785fecbd13e50e6e3ba530",
     "key": "3e27c8b04a620f1094bcbfdf0472c744",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeeAction.png",
-    "cookie": "Error: No Token found (Status 520)",
-    "expire_time": ""
+    "cookie": "__hdnea__=st=1786687164~exp=1786708764~acl=/bpk-tv/ZeeAction_BTS/WDVLive/*~hmac=4d6f85ca2bd940fe9618ac0d16b959d08725e4e9e9fdcdaaa9a4224164defc40",
+    "expire_time": "1786708764"
   },
   {
     "name": "Zee Cinema",
@@ -106,7 +106,7 @@
     "keyId": "a19c52e13a755afaa457a3c8488f4822",
     "key": "89dc06fb26e0fc72e9b9a1226073c8a2",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png",
-    "cookie": "Error: No Token found (Status 522)",
+    "cookie": "Error: No Token found (Status 404)",
     "expire_time": ""
   },
   {
@@ -150,8 +150,8 @@
     "keyId": "1ab3810fc9505eaf9121202a5acf3656",
     "key": "eab9ac2b629171ed27c105ea62ea4fda",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeeTamilHD.png",
-    "cookie": "Error: No Token found (Status 520)",
-    "expire_time": ""
+    "cookie": "__hdnea__=st=1786687164~exp=1786708764~acl=/bpk-tv/ZeeTamilHD_BTS/WDVLive/*~hmac=785b1c5241aeac653ed5dcdb8f3253830f30dd8478ff23ddf752d9f0f470802f",
+    "expire_time": "1786708764"
   },
   {
     "name": "Zee Tamil",
@@ -183,8 +183,8 @@
     "keyId": "b71f9a5cb8325078bb6b59528b553cc2",
     "key": "fa2c33f8a7d9933a347562bf092a90fe",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeeCinemaluHD.png",
-    "cookie": "Error: No Token found (Status 522)",
-    "expire_time": ""
+    "cookie": "__hdnea__=st=1786679964~exp=1786701564~acl=/bpk-tv/ZeeCinemaluHD_BTS/WDVLive/*~hmac=d89f4cb5523930ba5e3a152e7da8125da31329b5510eb220f5c8d9a93ba132f6",
+    "expire_time": "1786701564"
   },
   {
     "name": "Zee Bangla HD",
@@ -238,7 +238,7 @@
     "keyId": "71b2f1f7ceed5d4ab62273dbdc16e3ac",
     "key": "2d42ff5481ea336970c75f938b2e1473",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeeBiskope.png",
-    "cookie": "Error: No Token found (Status 520)",
+    "cookie": "Error: No Token found (Status 404)",
     "expire_time": ""
   },
   {
