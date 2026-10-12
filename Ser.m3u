@@ -5378,37 +5378,19 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540031361&token=RiYlIZ|cookie=hdntl=
 #https://port.denver69.fun/Kids/shinchan.m3u8
 #EXTM3U
 
-#EXTINF:-1 tvg-id="4248697_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248697_53053_TFC_ALS_fc-web.jpg", FC: AFC Champions League Elite 2026-27 [English]
+#EXTINF:-1 tvg-id="4249284_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249284_53072_NSW_TAS_FC-Web.jpg", FC: One Day Cup, 2026/27 [English]
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4248697_english_hls_0242a950ea63455_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791906388~_GO=Generated~acl=/mumbai/4248697_english_hls_0242a950ea63455_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_24c0db1d-4bd3-4a~Signature=AZJsJWYfUhY7UGWIyv8vPRUnYnjhryAHckBEuAxNdH7VDLib0mSYcx6T4OzmeigU2fsp2j5MJlkTuDf_hb3adRbsanYA
+https://in-mc-flive.fancode.com/mumbai/4249284_english_hls_c321af589727563_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791931977~_GO=Generated~acl=/mumbai/4249284_english_hls_c321af589727563_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c2dda812-1cd6-44~Signature=AZJsJWaEf8OFw401s_Fgrbznvle1-YucBN5_9hRVodLdxfd9YErQcm_HY0O1F2Dbiew9-eI1CafpwmZWtK95jmh-6zsG
 
-#EXTINF:-1 tvg-id="4248698_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248698_53053_AWS_AAS_FC-WEB_1791739628840.jpg", FC: AFC Champions League Elite 2026-27 [English]
+#EXTINF:-1 tvg-id="4249788_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249788_53097_SS-W_AM-W_FC-Web.png", FC: T20 Spring Challenge, 2026 [English]
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4248698_english_hls_a529e7751565199_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791906391~_GO=Generated~acl=/mumbai/4248698_english_hls_a529e7751565199_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_3b492512-31bf-42~Signature=AZJsJWajMeDcDl71NlH2hP0cSPVXEOxTFKfdx4HFhkjLwEsm8kNNSN--gN2YXiwHlJewEg9vyR3ZtbTYNxugU8ww5AcA
+https://in-mc-flive.fancode.com/mumbai/4249788_english_hls_12f19be64b84869_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791931978~_GO=Generated~acl=/mumbai/4249788_english_hls_12f19be64b84869_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2c756caa-1ea9-4c~Signature=AZJsJWZhrjZxXJ39OJbBhcm_GfTFBJAoe5E0Kf3rSVZIav5czB2UIKtFUn6i-e_YrXpOgkU0Vw8yvYoMJCgd-zmaouwJ
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2a12b48516fe7e9c90771b6547f9feff:1e3c44900e7658ddc0e61ad37d1919b8
-#EXTINF:-1 tvg-id="amzn1.dv.gti.d0f64737-d567-4434-8e64-4a43048ea637" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d0f64737-d567-4434-8e64-4a43048ea637/9/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Australia tour of South Africa 2026 - 1st Test - South Africa vs Australia
+#KODIPROP:inputstream.adaptive.license_key=241f2a47c5d18b2963e965742843dbea:b342a3dc0f9048244ff2883bedbbb730
+#EXTINF:-1 tvg-id="Amz.8505010088448471436638322" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fa2e2ab4-efd7-42ef-b5e8-f4c1d8e89c70/1/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: World Championship of Legends 2026 - 17th Match - Pakistan Champions vs South Africa Champions
 #EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7kvxgq43rt/out/v1/5bd043c032c14d92a2a7b5b144ad43dd/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7896b7ff2636cde4263be8c57e38e1a9:2bd6ba33ad4bb0b9264bb481914d6587
-#EXTINF:-1 tvg-id="amzn1.dv.gti.fa2e2ab4-efd7-42ef-b5e8-f4c1d8e89c70" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fa2e2ab4-efd7-42ef-b5e8-f4c1d8e89c70/1/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: World Championship of Legends 2026 - 17th Match - Pakistan Champions vs South Africa Champions
-#EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/78iool00m1/out/v1/f0c1b7637bc1405e93deaa73670df8a6/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc795082715e39585bb8b9913a2072db:b6a161d647a3e1319649cbae2ee256bf
-#EXTINF:-1 tvg-id="Amz.6688304274226005255201294" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abf514cc-bb21-4f3c-900b-065784936f1b/7/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh
-#EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/61zrupwmyb/out/v1/6cc49c58f415453894718c5813bbcd89/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=abceab2f1340be6c70c54b7176d30608:9c281b70e5626752d2481f498677b3df
-#EXTINF:-1 tvg-id="Amz.3122857475204264969535193" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d0f64737-d567-4434-8e64-4a43048ea637/9/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Australia tour of South Africa 2026 - 1st Test - South Africa vs Australia
-#EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nud9c5syvx/out/v1/f5d58491aba84f35985919762ad77d6a/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dsf0pim6dm/out/v1/1f453df9e4b94dd5bbfc18300ae057e6/cenc.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
