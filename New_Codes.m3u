@@ -3847,27 +3847,12 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|cookie=hdntl=
 #https://port.denver69.fun/Kids/doraemon.m3u8
 #EXTVLCOPT:http-user-agent=Denver1769
 #https://port.denver69.fun/Kids/shinchan.m3u8
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTINF:-1 tvg-id="4248980_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248980_53057_PNU_ADL_fc-web_1789025065400.jpg", FC: AFC Champions League Two 2026-27 [English]
-https://in-mc-flive.fancode.com/mumbai/4248980_english_hls_ad871cefec97148_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792152163~_GO=Generated~acl=/mumbai/4248980_english_hls_ad871cefec97148_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7e7cf8da-045b-47~Signature=AZJsJWbtmKvZiVK5fU6VxxAFc6EhYXrPrjSBn9imKnad4p6SImv6mqA85MyP_bgPlsmUw8bU-mX-NvnO_6vY4PFC6CUK
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTINF:-1 tvg-id="4248984_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248984_53057_KFC_KIT_fc-web_1789025066016.jpg", FC: AFC Champions League Two 2026-27 [English]
-https://in-mc-flive.fancode.com/mumbai/4248984_english_hls_cf7deef09a29291_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792152167~_GO=Generated~acl=/mumbai/4248984_english_hls_cf7deef09a29291_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ce4f9ffc-e1ab-45~Signature=AZJsJWZkjZtOUepGK50Pf9JZmDeua1wP6733BxmluctbwCB1FnXTGB2RVK4mY_Nd8BORxj1ZOedaUnR8dLnxV--V94kF
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTINF:-1 tvg-id="4250143_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png", FC: BWF Super 750 - Denmark Open 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250143_english_hls_dc83fe001556797_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792133374~_GO=Generated~acl=/mumbai/4250143_english_hls_dc83fe001556797_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a7aaf065-3a27-4a~Signature=AZJsJWbqxTxEabezUKjJHVZSGT8JBqpsXYKtGZ3BbnBmu4Fhaw791Bv43-4QPtPk0tSqFhqtmpW2XkWCuC6V9_gDvaUJ
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTINF:-1 tvg-id="4250144_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png", FC: BWF Super 750 - Denmark Open 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250144_english_hls_e65dfa782e42875_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792133376~_GO=Generated~acl=/mumbai/4250144_english_hls_e65dfa782e42875_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a453dc59-35df-4a~Signature=AZJsJWbqagbLRSoTwJv2JlaIzJI-xVEaRFbDF-4UtYsNwZ-4ifwMYtUHg6YubRNPn-srQkMf8ROXWlZTYjeXdNReYEQO
 #EXTVLCOPT:http-user-agent=Denver1769
-#EXTINF:-1 tvg-id="1090548068_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667345840390_VCL_Rajasthan_Spikers_vs_Punjab_Aerostrikers_live_landscape_thumb.jpg",Sony: Rajasthan Spikers vs Punjab Aerostrikers
-https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792116032~acl=/*~id=24022442084005091530819939351544~hmac=1fcf910142bce9c06c9b5aed80c43ba8d064053ad9332207b85fdfd9fa7cd1e0
+#EXTINF:-1 tvg-id="1090548084_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025908/1791199742069285_UEL_MD2_Lyon-vs-Crystal-Palace_live_landscape_thumb.jpg",Sony: Lyon vs Crystal Palace - MD2
+https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792132436~acl=/*~id=00048740094711114069700550738845~hmac=58c14d103d8705792d00c0ccc922df4c48982bb46c3f4ccee58c54f0ee85b331
 #EXTVLCOPT:http-user-agent=Denver1769
-#EXTINF:-1 tvg-id="1090548068_HIN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667345840390_VCL_Rajasthan_Spikers_vs_Punjab_Aerostrikers_live_landscape_thumb.jpg",Sony: Rajasthan Spikers vs Punjab Aerostrikers
-https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792116032~acl=/*~id=24022442084005091530819939351544~hmac=1fcf910142bce9c06c9b5aed80c43ba8d064053ad9332207b85fdfd9fa7cd1e0
-#EXTVLCOPT:http-user-agent=Denver1769
-#EXTINF:-1 tvg-id="1090548076_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026136/1791663767818476_APL26_Prithviraj_Yodhas_vs_Chola_Chiefs_live_landscape_thumb.jpg",Sony: Prithviraj Yodhas vs Chola Chiefs
-https://sonydaimenew.akamaized.net/hls/live/2037139/Archery_1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792116032~acl=/*~id=24022442084005091530819939351544~hmac=1fcf910142bce9c06c9b5aed80c43ba8d064053ad9332207b85fdfd9fa7cd1e0
+#EXTINF:-1 tvg-id="1090548113_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026438/1792074113208911_UEL_MD2_Salzburg-vs-Milan_live_landscape_thumb.jpg",Sony: Salzburg vs Milan
+https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792132436~acl=/*~id=00048740094711114069700550738845~hmac=58c14d103d8705792d00c0ccc922df4c48982bb46c3f4ccee58c54f0ee85b331
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/rsYyzsV2/Screenshot-2024-01-15-23-11-32-86-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 2
