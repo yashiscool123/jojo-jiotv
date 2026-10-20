@@ -6633,5 +6633,58 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|Cookie=hdntl=
 #EXTINF:-1 tvg-id="Shinchan" tvg-logo="https://static.wikia.nocookie.net/crayonshinchan/images/3/36/Logo_slogan.png" group-title="Kids", Shinchan 24/7
 #EXTVLCOPT:http-user-agent=Denver1769
 #https://port.denver69.fun/Kids/shinchan.m3u8
-# Error fetching: https://game.playindia.fun/Jtv/addon.php
+#EXTINF:-1 tvg-id="4249782_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png", FC: Australia tour of South Africa, 2026 [English]
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f10890_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792567154~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f10890_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_99ed45af-39c5-4e~Signature=ASgJGVDjYP99YI0mU5JSrTR10i9kAkNADFBIJkV_E4euvXjSpigjFsTGRmZZkw6JOQKiCw9SL91O-tnGlADp6R5rk1wO
+#EXTINF:-1 tvg-id="4250162_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-vs-New-ZealandT20I-Series-old-match-card.png", FC: New Zealand Women tour of Australia, 2026 [English]
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+https://in-mc-flive.fancode.com/mumbai/4250162_english_hls_6a0b09f2ee41913_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792570182~_GO=Generated~acl=/mumbai/4250162_english_hls_6a0b09f2ee41913_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_3e8d9385-c1e2-43~Signature=ASgJGVA2W5rx-dvWTdIQ9NQmdNv0u_i4yhsMHD9f4aGWFLp30bi6ptCdvlVj5p0JAa2zgUXtJuPHKbTdf5bmJchV5zYP
+#EXTINF:-1 tvg-id="4249754_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web_1792403588984.png", FC: ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026 [English]
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+https://in-mc-flive.fancode.com/mumbai/4249754_english_hls_b4548ca71283450_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792570790~_GO=Generated~acl=/mumbai/4249754_english_hls_b4548ca71283450_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0172cff9-b16f-44~Signature=ASgJGVCTw22cjkCBM-odz7MTwDWwTLSITSKtUhmyK6WriRvctTT68gU310ocCOCkZ6YzYwpUvsvPh3nnOTlKtIOA3gAC
+#EXTINF:-1 tvg-id="4249608_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png", FC: ATP 250 - Almaty Open 2026 [English]
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+https://in-mc-flive.fancode.com/mumbai/4249608_english_hls_a2345ca73095655_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792563514~_GO=Generated~acl=/mumbai/4249608_english_hls_a2345ca73095655_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bf9d79af-590d-4c~Signature=ASgJGVBbzn1rjyL8LkA3Kr1Oih3ShXxhm2c1o8pI7r40xfxfxtdMbjyBuyi5stZs_OURItI1G-BY-ZWNzTQfp5kjHnAH
+#EXTINF:-1 tvg-id="4249622_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg", FC: ATP 250 - BNP Paribas Fortis European Open [English]
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+https://in-mc-flive.fancode.com/mumbai/4249622_english_hls_8342648ba261_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792574428~_GO=Generated~acl=/mumbai/4249622_english_hls_8342648ba261_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c8f5f7e5-79c6-46~Signature=ASgJGVCoUgftU0-iZRBz1d4i3AazyMuXZDbJkM-IWHQjZK_1ApugYFGNxOYqI2qB_bZf4WuXvxksnjH66N1u4qQSXIYI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=063f8926a49c03f44ae47250586d927a:42656101490de9d5ad9a4fd093e431f6
+#EXTINF:-1 tvg-id="amzn1.dv.gti.df9be69a-7bd6-4883-a021-b7e4801a1573" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.df9be69a-7bd6-4883-a021-b7e4801a1573/7/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia
+#EXTVLCOPT:http-user-agent=Denver1769
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/to25hceaip/out/v1/35d6b3882f6847f79c0fdd53d88ac54a/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c4845fc9cde933409425c0832b6b048:7170bec182bad38d5021df6b8d4e8b41
+#EXTINF:-1 tvg-id="amzn1.dv.gti.abf1e0e9-9f21-4e46-a441-e074eaf2d220" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abf1e0e9-9f21-4e46-a441-e074eaf2d220/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Pakistan ODI Tri-Series 2026 - 2nd Match - Pakistan vs England
+#EXTVLCOPT:http-user-agent=Denver1769
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/pqilu4mqdo/out/v1/5dec7bdd031d478fbd3546ef43c99f26/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=452bffe07d51da04f010d167f5032567:cf48b35fdcf8539f9911f7b313df6cb3
+#EXTINF:-1 tvg-id="amzn1.dv.gti.2c58ef14-8c26-4d0c-b185-8fc6f476bea3" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2c58ef14-8c26-4d0c-b185-8fc6f476bea3/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: New Zealand Women tour of Australia 2026 - 2nd T20I - Australia Women vs New Zealand Women
+#EXTVLCOPT:http-user-agent=Denver1769
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gxwneovx48/out/v1/eccb3fcef8604ab1816147ec23c70045/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=080ee04799e134b38da01ba4bfca26b7:e7238b74d5c55457ea611fe541c358aa
+#EXTINF:-1 tvg-id="Amz.1442475216365372095410688" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.df9be69a-7bd6-4883-a021-b7e4801a1573/7/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia
+#EXTVLCOPT:http-user-agent=Denver1769
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/chnnxqauwu/out/v1/dfdb7db2bdf5432aacc28e53343360aa/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+#EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 1
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+#EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/rsYyzsV2/Screenshot-2024-01-15-23-11-32-86-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 2
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+#EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/NFWhWHGF/Screenshot-2024-01-15-23-12-20-61-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+#EXTINF:-1 group-title="Live events" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/TNT_Sports_4_logo.png",TNT Sports 4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+#EXTINF:-1 group-title="Live events" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg",TNT Sports 5
 # Error fetching:
