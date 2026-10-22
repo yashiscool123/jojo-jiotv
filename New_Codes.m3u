@@ -3842,53 +3842,26 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|cookie=hdntl=
 #EXTVLCOPT:http-user-agent=Denver1769
 #https://port.denver69.fun/Kids/shinchan.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTINF:-1 tvg-id="4249782_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png", FC: Australia tour of South Africa, 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792739943~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8284b59-16ea-40~Signature=ASgJGVBgt5KPS-AF0EumoPQHV_6108eLiM2lL21XP3CsFP6owbBBttutxB9hrQHlPFq2xWr6nHskNl-mcHlFEnRBd7gN
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTINF:-1 tvg-id="4250338_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png", FC: ICC CWC Challenge League A 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250338_english_hls_e735380f0e82720_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792737514~_GO=Generated~acl=/mumbai/4250338_english_hls_e735380f0e82720_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1b26f978-05cd-49~Signature=ASgJGVA-wnidZdmg0mVua19gkkRncJZvjM9l4VXFqqfqo9B5zwu4d-RR0E4cv63T00772ZIf-b70UHr_vrdQUi_1-ccG
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTINF:-1 tvg-id="4250331_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg", FC: Ireland tour of Namibia, 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250331_english_hls_7f6dfbff8a18598_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792741155~_GO=Generated~acl=/mumbai/4250331_english_hls_7f6dfbff8a18598_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0223b7e2-df6e-4a~Signature=ASgJGVAv5ZjjfH6s96_m81Jy9kjMdNONdc_7xne-vsL4ELvqBtXW4URwnbni5WXqW77pL-hlrVZk3r8ZsGFt6rhrXekD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTINF:-1 tvg-id="4250480_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250480_53130_EMR_DUB_fc-web_1792412929376.jpg", FC: Emirates D20, 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792758128~_GO=Generated~acl=/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_90c0629a-910c-4c~Signature=ASgJGVBVWRX4xbrlTPPqTgV4GlCFygPlmdKIgb6eDYG5ItsxBPZvvEqzEy0tQPYOGzzxSTVx5HiODOBHYrUFhZzH_3AN
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTINF:-1 tvg-id="4249610_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png", FC: ATP 250 - Almaty Open 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249610_english_hls_f58b618b6194312_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792736300~_GO=Generated~acl=/mumbai/4249610_english_hls_f58b618b6194312_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b4ac297d-3aab-49~Signature=ASgJGVCHYH9uoydJLKR2-SL5HdjDiulIfMTaoW74IAHSEhXAjpDNPS1hbqI6XFWE7ky-DGPRhyepr7G6dWfP8e0luZwF
+#EXTINF:-1 tvg-id="4250481_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250481_53130_SHA_ABD_fc-web_1792412929288.jpg", FC: Emirates D20, 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250481_english_hls_b5ed5279eb83693_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792772673~_GO=Generated~acl=/mumbai/4250481_english_hls_b5ed5279eb83693_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_828f4aeb-b385-4d~Signature=ASgJGVAsCQuu3iXP9r1X-lBQqB4DzmhtXOGf-7Twp3l44OQ5oFb3_BXah-Ri0zbCagvKYt8e900GNhZR3XMVYhN-xosL
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTINF:-1 tvg-id="4250154_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg", FC: BWF Super 750 - French Open 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250154_english_hls_3c611f41f696154_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792748427~_GO=Generated~acl=/mumbai/4250154_english_hls_3c611f41f696154_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4cf53f19-7091-44~Signature=ASgJGVAhRKk-Sw-svZSWJFVUT4KaPSa-Uoy0FjcrhALthYYERUVHKfqNvU01GjoVZNCbDLAe3TDhax4G49zgTWrSarkH
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTINF:-1 tvg-id="4250155_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/R_Gunji_PV_Sindhu_FC-App-V2_FC-WEB.jpg", FC: BWF Super 750 - French Open 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250155_english_hls_ee7e9a1c7a21470_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792749034~_GO=Generated~acl=/mumbai/4250155_english_hls_ee7e9a1c7a21470_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b0f69f54-f82b-4b~Signature=ASgJGVDm3WJjDR85hWay1wt-gzXfE9ith_aXCvrtg_NnPVyC8ul3tzuS7Xu19IqzF-OOvBvMPo7HTFjqAR_PRNLlqjYG
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTINF:-1 tvg-id="4249624_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg", FC: ATP 250 - BNP Paribas Fortis European Open [English]
-https://in-mc-flive.fancode.com/mumbai/4249624_english_hls_00b5a191e961539_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792750855~_GO=Generated~acl=/mumbai/4249624_english_hls_00b5a191e961539_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_27e70361-4138-47~Signature=ASgJGVAHGnijV3XDgS6sX2cf9j0qFys68FTtK3Yomw3sK-ry0YLrUKj5PIggU_oFqnVOf-KpKTR2VvCMIENdDCjTAbEC
+https://in-mc-flive.fancode.com/mumbai/4250154_english_hls_3c611f41f696154_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792778156~_GO=Generated~acl=/mumbai/4250154_english_hls_3c611f41f696154_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ba1cf6c1-33ab-4d~Signature=ASgJGVBPSGoi685bLY0TZhwlVSX2hEADc_Oa2T7vp1IMuqjdQRGqchR_d9AOF6o0FEoA-F0cybxdmra05R08BVo0P7wC
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTINF:-1 tvg-id="4249617_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg", FC: ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4249617_english_hls_a8e888094b44085_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792756308~_GO=Generated~acl=/mumbai/4249617_english_hls_a8e888094b44085_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_74d33aec-83cc-45~Signature=ASgJGVAl6ZBZORSemJvz-swby9kFaKkIkxIeOuoEqYUnKHO-zcArS1OZKRkuoPT9nOGKdmmwE5XxuSE7OMCVHdgUWJwF
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTINF:-1 tvg-id="4250351_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png", FC: Butterfield Bermuda Championship 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250351_english_hls_d172a73f9981710_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792770857~_GO=Generated~acl=/mumbai/4250351_english_hls_d172a73f9981710_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_88d0fe81-c180-43~Signature=ASgJGVAOrSZMk3AZTnozmns0RRHmnt8rZviZ7sYOaN82oREee5Iv3nnkfYRPmfd-GrPRQV-dQI2dA6fnmoyUnz1dXRIC
 #EXTVLCOPT:http-user-agent=Denver1769
-#EXTINF:-1 tvg-id="1090549594_HIN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026937/179261767506469_STCL26_mumbai_vs_tamilnadu_landscape_thumb.jpg",Sony: Mumbai Mavericks vs Tamilnadu Thunders
-https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792719796~acl=/*~id=68184630372276274726933326238973~hmac=fb7ae557afa905eb26bb99b65650f66b6c793ca1cd2bbfcfd8761bc8b8be2976
-#EXTVLCOPT:http-user-agent=Denver1769
-#EXTINF:-1 tvg-id="amzn1.dv.gti.df9be69a-7bd6-4883-a021-b7e4801a1573" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.df9be69a-7bd6-4883-a021-b7e4801a1573/10/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/drzic2abat/out/v1/28dca756a7cf4b90b60089fae70a93e6/cenc.mpd
-#EXTVLCOPT:http-user-agent=Denver1769
-#EXTINF:-1 tvg-id="amzn1.dv.gti.343f357f-7382-4a16-88df-1c4941942e53" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.343f357f-7382-4a16-88df-1c4941942e53/4/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Pakistan ODI Tri-Series 2026 - 3rd Match - Sri Lanka vs England
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xdwqathhkx/out/v1/77256ab7369b45da803dd8d025e94a0a/cenc.mpd
-#EXTVLCOPT:http-user-agent=Denver1769
-#EXTINF:-1 tvg-id="Amz.3524112801116711089967985" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e2a60804-e877-4e77-bc40-5f237b95235a/4/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: New Zealand vs. India
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/meouoxphzm/out/v1/be7934dca1254ed0924242347f93c4e3/cenc.mpd
+#EXTINF:-1 tvg-id="1090549627_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026477/1792131894013184_UECL_26_MD2_Jablonec-vs-Brighton_live_landscape_thumb.jpg",Sony: Jablonec vs Brighton
+https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792734989~acl=/*~id=55227249070350915066906700019842~hmac=28d3552c61d05c51d8d620c301366f5afcf3031d592cff1b75599a62f494d891
 #EXTVLCOPT:http-user-agent=Denver1769
 #EXTINF:-1 tvg-id="Amz.7139180890200714061040947" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.df9be69a-7bd6-4883-a021-b7e4801a1573/10/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xbks3vyjpt/out/v1/a17d73cc568e4fa4909bf69fb2970a19/cenc.mpd
 #EXTVLCOPT:http-user-agent=Denver1769
 #EXTINF:-1 tvg-id="Amz.3582091048283453240231870" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.343f357f-7382-4a16-88df-1c4941942e53/4/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Pakistan ODI Tri-Series 2026 - 3rd Match - Sri Lanka vs England
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mvxw3ht3lx/out/v1/bfafd4b9e47b48a099b72253ed169032/cenc.mpd
-#EXTVLCOPT:http-user-agent=Denver1769
-#EXTINF:-1 tvg-id="Amz.2063750223061823413400224" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5a14b058-72cd-42a8-a6f2-2d87608be042/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: New Zealand Women tour of Australia 2026 - 3rd T20I - Australia Women vs New Zealand Women
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7r9hazscyk/out/v1/78dae923350f474599687cc9fceca8ae/cenc.mpd
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/rsYyzsV2/Screenshot-2024-01-15-23-11-32-86-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 2
