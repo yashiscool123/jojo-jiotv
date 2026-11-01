@@ -6633,30 +6633,69 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|Cookie=hdntl=
 #EXTINF:-1 tvg-id="Shinchan" tvg-logo="https://static.wikia.nocookie.net/crayonshinchan/images/3/36/Logo_slogan.png" group-title="Kids", Shinchan 24/7
 #EXTVLCOPT:http-user-agent=Denver1769
 #https://port.denver69.fun/Kids/shinchan.m3u8
-#EXTINF:-1 tvg-id="4249669_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg", FC: Sheffield Shield, 2026/27 [English]
+#EXTINF:-1 tvg-id="4250392_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250392_53125_ST-W_BH-W_fc-web_1793352701384.jpg", FC: Women's Big Bash League, 2026 [English]
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4249669_english_hls_0ad52e993333483_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793574409~_GO=Generated~acl=/mumbai/4249669_english_hls_0ad52e993333483_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b18_watcho_bf02a9ce-e61f-49~Signature=ATFKiJu4bYm-ZKg7qcHdsbrQNC94rrHoySRhMNtEa0IAmpp3mwtgfnaVsSy7tWzHmySVaPgBAkr8hTXas5_uKC5QZIYI
-#EXTINF:-1 tvg-id="4249670_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg", FC: Sheffield Shield, 2026/27 [English]
+https://in-mc-flive.fancode.com/mumbai/4250392_english_hls_ab5ad34ec069159_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793593803~_GO=Generated~acl=/mumbai/4250392_english_hls_ab5ad34ec069159_1ta-di_h264/*~SessionID=fc-app_sportsguruand_10b_watcho_97af2646-76b5-47~Signature=ATFKiJsk3ZiY6XHAAp9p3-rOzk_WgV8BqWYqsBOcW47KIgudMIyBxK3IxOIC0Yls4f1RNyU9_9yYs0Nc0jkys-7kQkAD
+#EXTINF:-1 tvg-id="4250329_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/OMN-vs-PAK_fc-web.jpg", FC: Hong Kong Sixes, 2026 [English]
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4249670_english_hls_72230a09d418743_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793575018~_GO=Generated~acl=/mumbai/4249670_english_hls_72230a09d418743_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d5f_watcho_c9b3a075-b664-47~Signature=ATFKiJsFPyv4rHxSGCIuyQdEQRQG4TpiZQN9TQD7seMzXv6QrmKR6IWnUKiVrBqcmOxNG-CS4HIfT8OesueKGgA-03IH
-#EXTINF:-1 tvg-id="1090551577_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027940/1793474597073145_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day2_landscape_thumb.jpg",Sony: India A vs New Zealand [ENG]
+https://in-mc-flive.fancode.com/mumbai/4250329_english_hls_718203879017139_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793599251~_GO=Generated~acl=/mumbai/4250329_english_hls_718203879017139_1ta-di_h264/*~SessionID=fc-app_sportsguruand_300_watcho_95eb2f63-de4e-48~Signature=ATFKiJsnOp76HJhvPb8GOpPjCIaIscr0688NskJab3JvdP5DRBo37NwAmqin07NIhJdpZyPDXIth3j6asyUoScE8qGsB
+#EXTINF:-1 tvg-id="4250330_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-AFG_fc-web.jpg", FC: Hong Kong Sixes, 2026 [English]
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+https://in-mc-flive.fancode.com/mumbai/4250330_english_hls_081e16928371508_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793602884~_GO=Generated~acl=/mumbai/4250330_english_hls_081e16928371508_1ta-di_h264/*~SessionID=fc-app_sportsguruand_445_watcho_7f38a481-3549-46~Signature=ATFKiJvhwBRHgwOEhx9WDeyH9IK8uPl9Dcgf0F_8sMh3iaGLuSH0SYmAdH3Tb0ntpUjNSoKkVEIYPwGJAU9gnmI9Iu8N
+#EXTINF:-1 tvg-id="4250335_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg", FC: Ireland tour of Namibia, 2026 [English]
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+https://in-mc-flive.fancode.com/mumbai/4250335_english_hls_7eef3e039e34060_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793602885~_GO=Generated~acl=/mumbai/4250335_english_hls_7eef3e039e34060_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3b4_watcho_869cd832-72c0-45~Signature=ATFKiJv6cMzSDLk8kKcDz6n3eHS5GQAgYHxSbmA258LS-1KJDrVzsfHwOUJFJpNv_GkDQEnt5M-3GHLV4XyOcW0vl4kC
+#EXTINF:-1 tvg-id="139983_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg", FC: PETRONAS GRAND PRIX OF MALAYSIA 2026 [English]
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+https://in-mc-flive.fancode.com/mumbai/139983_english_hls_919a9f8e1987742_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793582892~_GO=Generated~acl=/mumbai/139983_english_hls_919a9f8e1987742_1ta-di_h264/*~SessionID=fc-app_sportsguruand_fe7_watcho_53ef9a7b-ec98-47~Signature=ATFKiJvItIEk7fcbU6wB72ZCyI_lzfKWCK0YP4wp6k7usPepP0n5CRGKKvpzd26dGPPcPjEmi0wOEePqp4xE31YEzJMI
+#EXTINF:-1 tvg-id="4250515_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Wistron-Ladies-Open-2026_fc-web.jpg", FC: Wistron Ladies Open 2026 [English]
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+https://in-mc-flive.fancode.com/mumbai/4250515_english_hls_380a64861941846_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793593196~_GO=Generated~acl=/mumbai/4250515_english_hls_380a64861941846_1ta-di_h264/*~SessionID=fc-app_sportsguruand_992_watcho_f853425f-41c1-45~Signature=ATFKiJvMVVphDtWuE_cz26FvGLp39Uc2oGDMOQVLknbDNSgIneftDHdlcArPbyN6LpX16U7BQYlkZIaacK45qFeKG6QP
+#EXTINF:-1 tvg-id="1090551642_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg",Sony: India vs New Zealand [ENG]
 #EXTVLCOPT:http-user-agent=Denver1769
-https://dai.google.com/linear/hls/event/VwE3AaQJTiiGLezAr_2DvQ/master.m3u8
-#EXTINF:-1 tvg-id="1090551580_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg",Sony: UFC Fight Night - Moicano vs Nolan [ENG]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_0111/ENG/std_mdd-600300010.m3u8?hdnea=exp=1793560684~acl=/*~id=01778661763363904250321755054536~hmac=a6de8a0fbebd099be0df95031622b47b1a4046029c1c4a14cf9c0ce2b06c3991
+#EXTINF:-1 tvg-id="1090551642_HIN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg",Sony: India vs New Zealand [HIN]
 #EXTVLCOPT:http-user-agent=Denver1769
-https://dai.google.com/linear/hls/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
-#EXTINF:-1 tvg-id="1090551580_HIN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg",Sony: UFC Fight Night - Moicano vs Nolan [HIN]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_0111/HIN/std_mdd-600300010.m3u8?hdnea=exp=1793560684~acl=/*~id=01778661763363904250321755054536~hmac=a6de8a0fbebd099be0df95031622b47b1a4046029c1c4a14cf9c0ce2b06c3991
+#EXTINF:-1 tvg-id="1090551642_TAM" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg",Sony: India vs New Zealand [TAM]
 #EXTVLCOPT:http-user-agent=Denver1769
-https://dai.google.com/linear/hls/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
-#EXTINF:-1 tvg-id="1090551580_TAM" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg",Sony: UFC Fight Night - Moicano vs Nolan [TAM]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_0111/ENG/std_mdd-600300010.m3u8?hdnea=exp=1793560684~acl=/*~id=01778661763363904250321755054536~hmac=a6de8a0fbebd099be0df95031622b47b1a4046029c1c4a14cf9c0ce2b06c3991
+#EXTINF:-1 tvg-id="1090551642_TEL" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg",Sony: India vs New Zealand [TEL]
 #EXTVLCOPT:http-user-agent=Denver1769
-https://dai.google.com/linear/hls/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
-#EXTINF:-1 tvg-id="1090551580_TEL" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg",Sony: UFC Fight Night - Moicano vs Nolan [TEL]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_0111/ENG/std_mdd-600300010.m3u8?hdnea=exp=1793560684~acl=/*~id=01778661763363904250321755054536~hmac=a6de8a0fbebd099be0df95031622b47b1a4046029c1c4a14cf9c0ce2b06c3991
+#EXTINF:-1 tvg-id="1090551642_KAN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg",Sony: India vs New Zealand [KAN]
 #EXTVLCOPT:http-user-agent=Denver1769
-https://dai.google.com/linear/hls/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
-#EXTINF:-1 tvg-id="1090551580_KAN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg",Sony: UFC Fight Night - Moicano vs Nolan [KAN]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_0111/ENG/std_mdd-600300010.m3u8?hdnea=exp=1793560684~acl=/*~id=01778661763363904250321755054536~hmac=a6de8a0fbebd099be0df95031622b47b1a4046029c1c4a14cf9c0ce2b06c3991
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2acca3dc5e3271c1a1e8812fc45919d:5268808fe0e0bdd985cac807dd7f2d57
+#EXTINF:-1 tvg-id="amzn1.dv.gti.c2c84966-e524-464e-a567-5ea6dad62f38" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c2c84966-e524-464e-a567-5ea6dad62f38/1/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Womens Big Bash League 2026 - 6th Match - Sydney Thunder Women vs Brisbane Heat Women
 #EXTVLCOPT:http-user-agent=Denver1769
-https://dai.google.com/linear/hls/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3p3kxjfbe8/out/v1/6a3e60fd6b0d480482ebaaebfec4c90b/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a5e009f9d94b718c7745f56e2d49db42:d502c3c41b8e22ff3a4eb16a1f4001c1
+#EXTINF:-1 tvg-id="amzn1.dv.gti.51c0bf91-b33c-483f-9979-81cd852e7387" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.51c0bf91-b33c-483f-9979-81cd852e7387/4/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Hong Kong Sixes 2026 - Plate Final - Oman vs Pakistan
+#EXTVLCOPT:http-user-agent=Denver1769
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qx8zjlfcgw/out/v1/758e647a3a394ee38a8ba17992120a0e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af79b819ec8ed7b81d102fdbe1ab82a2:1797b0e1d4491ff81aa11743cc9ffc09
+#EXTINF:-1 tvg-id="amzn1.dv.gti.2d613298-262a-42ed-a769-e267442a7aa6" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2d613298-262a-42ed-a769-e267442a7aa6/3/BOXART-16X9/en-US._UR1920,1080_.jpg", Willow: New Zealand vs. India
+#EXTVLCOPT:http-user-agent=Denver1769
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wp1uowsjts/out/v1/fbf94744b71c452baa303c4a7c02a615/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e380a8d1b4dc422374a4833f1277ccb3:d657a405aafa7f1cdeac4c35f9a63af3
+#EXTINF:-1 tvg-id="amzn1.dv.gti.ae9a1731-d689-40a7-9a89-b48fd28622e1" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ae9a1731-d689-40a7-9a89-b48fd28622e1/4/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Hong Kong Sixes 2026 - Cup Final - Australia vs Afghanistan
+#EXTVLCOPT:http-user-agent=Denver1769
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/16twbquiox/out/v1/1d12ee2f8b234bec9ea9ea0ae87b8674/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a45aa9f5fac4b13e949ad10b6ec32cb:ed2a38ea996575580a003664f4c995ce
+#EXTINF:-1 tvg-id="Amz.5595167821221605076706310" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8d3092af-d45c-4071-ba1e-6d686fe74ff5/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Hong Kong Sixes 2026 - Bowl Play-off - Bangladesh vs India
+#EXTVLCOPT:http-user-agent=Denver1769
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yhjpgwaw67/out/v1/6fc4a3ad7755466696d8f58232a80c13/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b610b101e8a987cbf194e6d968585cc2:2ecaec94db1a7fbf40fb9d4ac74f3b47
+#EXTINF:-1 tvg-id="Amz.6102139026022295235307258" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ecb96c5f-51e3-4ffc-91c4-707c3aa698e5/4/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Hong Kong Sixes 2026 - Plate Play-off - Sri Lanka vs Hong Kong, China
+#EXTVLCOPT:http-user-agent=Denver1769
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ltxdcoti1m/out/v1/4da40c8b0d194fb4a9de00e68a84c0d1/cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 1
