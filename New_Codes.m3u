@@ -3842,32 +3842,56 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|cookie=hdntl=
 #EXTVLCOPT:http-user-agent=Denver1769
 #https://port.denver69.fun/Kids/shinchan.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTINF:-1 tvg-id="4249669_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg", FC: Sheffield Shield, 2026/27 [English]
-https://in-mc-flive.fancode.com/mumbai/4249669_english_hls_0ad52e993333483_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793574409~_GO=Generated~acl=/mumbai/4249669_english_hls_0ad52e993333483_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b18_watcho_bf02a9ce-e61f-49~Signature=ATFKiJu4bYm-ZKg7qcHdsbrQNC94rrHoySRhMNtEa0IAmpp3mwtgfnaVsSy7tWzHmySVaPgBAkr8hTXas5_uKC5QZIYI
+#EXTINF:-1 tvg-id="4250335_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg", FC: Ireland tour of Namibia, 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250335_english_hls_7eef3e039e34060_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793602885~_GO=Generated~acl=/mumbai/4250335_english_hls_7eef3e039e34060_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3b4_watcho_869cd832-72c0-45~Signature=ATFKiJv6cMzSDLk8kKcDz6n3eHS5GQAgYHxSbmA258LS-1KJDrVzsfHwOUJFJpNv_GkDQEnt5M-3GHLV4XyOcW0vl4kC
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTINF:-1 tvg-id="4249670_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg", FC: Sheffield Shield, 2026/27 [English]
-https://in-mc-flive.fancode.com/mumbai/4249670_english_hls_72230a09d418743_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793575018~_GO=Generated~acl=/mumbai/4249670_english_hls_72230a09d418743_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d5f_watcho_c9b3a075-b664-47~Signature=ATFKiJsFPyv4rHxSGCIuyQdEQRQG4TpiZQN9TQD7seMzXv6QrmKR6IWnUKiVrBqcmOxNG-CS4HIfT8OesueKGgA-03IH
+#EXTINF:-1 tvg-id="4250393_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250393_53125_SS-W_HB-W_fc-web_1793352701389.jpg", FC: Women's Big Bash League, 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250393_english_hls_c6be72e7f114158_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793606521~_GO=Generated~acl=/mumbai/4250393_english_hls_c6be72e7f114158_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f92_watcho_69d340a1-e38d-47~Signature=ATFKiJsb0rCG5Id-ZgPUz1coQHpYXZV8RK5sEFVABxzKYdxN5i10LHp1T36UQ5cDYyRpIW10T4PEzd92_5PSX8Grd6AC
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTINF:-1 tvg-id="4250326_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SL-vs-HK_fc-web.jpg", FC: Hong Kong Sixes, 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250326_english_hls_614a79b84949329_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793586531~_GO=Generated~acl=/mumbai/4250326_english_hls_614a79b84949329_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ef1_watcho_adf24242-6017-4c~Signature=ATFKiJvX28gWACnwYFq8p7hy8Xm92vAgnpAm3gD71k1I2he4663-jkI4pSIUCG-QWamDzYkmoe1htaGn75EmFEdK94oI
+#EXTINF:-1 tvg-id="4250248_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg", FC: AFC Women's Champions League 2026-27 [English]
+https://in-mc-flive.fancode.com/mumbai/4250248_english_hls_fba9246d6c94053_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793607735~_GO=Generated~acl=/mumbai/4250248_english_hls_fba9246d6c94053_1ta-di_h264/*~SessionID=fc-app_sportsguruand_70e_watcho_90646fb0-3939-42~Signature=ATFKiJsqGElvNjmDWpj7k404iBY9dmHaA1dS8JCZzRPfnwyeXrB1-3Re_MCcdHI8ciyUjV77fLf0Xk0d37FlOjjpzBgC
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTINF:-1 tvg-id="4250327_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/UAE-vs-SCO_fc-web.jpg", FC: Hong Kong Sixes, 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250327_english_hls_718722817217539_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793589562~_GO=Generated~acl=/mumbai/4250327_english_hls_718722817217539_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a17_watcho_747416c7-a2ec-43~Signature=ATFKiJsOxX7YTNuWohtUzP_yI3H8424cmUOVYxTNLhL4jF1_zESSCuXBEXh8YK6ttM3tvcr9N5LIFstJTXFBFjXMzi8F
+#EXTINF:-1 tvg-id="4250254_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg", FC: AFC Women's Champions League 2026-27 [English]
+https://in-mc-flive.fancode.com/mumbai/4250254_english_hls_a445844a7886968_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793607128~_GO=Generated~acl=/mumbai/4250254_english_hls_a445844a7886968_1ta-di_h264/*~SessionID=fc-app_sportsguruand_625_watcho_90d13875-cf5f-43~Signature=ATFKiJuNJxc3ugi2ZVx2x5J7n9xV8weG5Hg_R19XoA1fAxgz1uG285vWMS3Sb-2hWEvpxRtlER4SE2bX0S8xyze4_iUD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTINF:-1 tvg-id="139983_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg", FC: PETRONAS GRAND PRIX OF MALAYSIA 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/139983_english_hls_919a9f8e1987742_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793582892~_GO=Generated~acl=/mumbai/139983_english_hls_919a9f8e1987742_1ta-di_h264/*~SessionID=fc-app_sportsguruand_fe7_watcho_53ef9a7b-ec98-47~Signature=ATFKiJvItIEk7fcbU6wB72ZCyI_lzfKWCK0YP4wp6k7usPepP0n5CRGKKvpzd26dGPPcPjEmi0wOEePqp4xE31YEzJMI
+#EXTINF:-1 tvg-id="4250260_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg", FC: AFC Women's Champions League 2026-27 [English]
+https://in-mc-flive.fancode.com/mumbai/4250260_english_hls_a7dbecca5730938_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793615007~_GO=Generated~acl=/mumbai/4250260_english_hls_a7dbecca5730938_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e56_watcho_4cbc7e8a-5338-45~Signature=ATFKiJuhgxmIxz-Y5TVRVS921-B3Dz5Lx73qCZQMEz4UEkwhemcKjY-gScTr-65n4y5GKzikCQYG4Qnwls9Ei6RIAAkD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTINF:-1 tvg-id="4249641_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png", FC: ATP 500 - Erste Bank Open 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4249641_english_hls_d9e4584e1617784_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793615008~_GO=Generated~acl=/mumbai/4249641_english_hls_d9e4584e1617784_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d43_watcho_51d1770d-11da-45~Signature=ATFKiJuXgrM4mtCa6Id1MuZwqES0pHehcMQ8LphgF8tT0RRYDM_cF-3bdljhw74UC1F6XWU_F8JRVJEJTuEfhf-HSUwO
 #EXTVLCOPT:http-user-agent=Denver1769
-#EXTINF:-1 tvg-id="1090551577_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027940/1793474597073145_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day2_landscape_thumb.jpg",Sony: India A vs New Zealand [ENG]
-https://dai.google.com/linear/hls/event/VwE3AaQJTiiGLezAr_2DvQ/master.m3u8
+#EXTINF:-1 tvg-id="1090551642_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg",Sony: India vs New Zealand [ENG]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_0111/ENG/std_mdd-600300010.m3u8?hdnea=exp=1793560684~acl=/*~id=01778661763363904250321755054536~hmac=a6de8a0fbebd099be0df95031622b47b1a4046029c1c4a14cf9c0ce2b06c3991
 #EXTVLCOPT:http-user-agent=Denver1769
-#EXTINF:-1 tvg-id="amzn1.dv.gti.ecb96c5f-51e3-4ffc-91c4-707c3aa698e5" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ecb96c5f-51e3-4ffc-91c4-707c3aa698e5/4/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Hong Kong Sixes 2026 - Plate Play-off - Sri Lanka vs Hong Kong, China
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yqraibjaks/out/v1/9dff528db5914d7b87940459c3f3495b/cenc.mpd
+#EXTINF:-1 tvg-id="1090551642_HIN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg",Sony: India vs New Zealand [HIN]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_0111/HIN/std_mdd-600300010.m3u8?hdnea=exp=1793560684~acl=/*~id=01778661763363904250321755054536~hmac=a6de8a0fbebd099be0df95031622b47b1a4046029c1c4a14cf9c0ce2b06c3991
 #EXTVLCOPT:http-user-agent=Denver1769
-#EXTINF:-1 tvg-id="Amz.5595167821221605076706310" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8d3092af-d45c-4071-ba1e-6d686fe74ff5/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Hong Kong Sixes 2026 - Bowl Play-off - Bangladesh vs India
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yhjpgwaw67/out/v1/6fc4a3ad7755466696d8f58232a80c13/cenc.mpd
+#EXTINF:-1 tvg-id="1090551642_TAM" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg",Sony: India vs New Zealand [TAM]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_0111/ENG/std_mdd-600300010.m3u8?hdnea=exp=1793560684~acl=/*~id=01778661763363904250321755054536~hmac=a6de8a0fbebd099be0df95031622b47b1a4046029c1c4a14cf9c0ce2b06c3991
 #EXTVLCOPT:http-user-agent=Denver1769
-#EXTINF:-1 tvg-id="Amz.6102139026022295235307258" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ecb96c5f-51e3-4ffc-91c4-707c3aa698e5/4/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Hong Kong Sixes 2026 - Plate Play-off - Sri Lanka vs Hong Kong, China
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ltxdcoti1m/out/v1/4da40c8b0d194fb4a9de00e68a84c0d1/cenc.mpd
+#EXTINF:-1 tvg-id="1090551642_TEL" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg",Sony: India vs New Zealand [TEL]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_0111/ENG/std_mdd-600300010.m3u8?hdnea=exp=1793560684~acl=/*~id=01778661763363904250321755054536~hmac=a6de8a0fbebd099be0df95031622b47b1a4046029c1c4a14cf9c0ce2b06c3991
+#EXTVLCOPT:http-user-agent=Denver1769
+#EXTINF:-1 tvg-id="1090551642_KAN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg",Sony: India vs New Zealand [KAN]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_0111/ENG/std_mdd-600300010.m3u8?hdnea=exp=1793560684~acl=/*~id=01778661763363904250321755054536~hmac=a6de8a0fbebd099be0df95031622b47b1a4046029c1c4a14cf9c0ce2b06c3991
+#EXTVLCOPT:http-user-agent=Denver1769
+#EXTINF:-1 tvg-id="1090551626_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792881645594355_ISL26_Mumbai_City_FC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",Sony: MG Indian Super League [ENG]
+https://dai.google.com/linear/hls/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
+#EXTVLCOPT:http-user-agent=Denver1769
+#EXTINF:-1 tvg-id="1090551626_HIN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792881645594355_ISL26_Mumbai_City_FC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",Sony: MG Indian Super League [HIN]
+https://dai.google.com/linear/hls/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
+#EXTVLCOPT:http-user-agent=Denver1769
+#EXTINF:-1 tvg-id="amzn1.dv.gti.2d613298-262a-42ed-a769-e267442a7aa6" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2d613298-262a-42ed-a769-e267442a7aa6/3/BOXART-16X9/en-US._UR1920,1080_.jpg", Willow: New Zealand vs. India
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wp1uowsjts/out/v1/fbf94744b71c452baa303c4a7c02a615/cenc.mpd
+#EXTVLCOPT:http-user-agent=Denver1769
+#EXTINF:-1 tvg-id="amzn1.dv.gti.63c97416-9e71-4c56-a95d-9ef474669f7a" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.63c97416-9e71-4c56-a95d-9ef474669f7a/1/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Womens Big Bash League 2026 - 7th Match - Sydney Sixers Women vs Hobart Hurricanes Women
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z00c0cw9pl/out/v1/85901e97ad9d42b98510cd063035c7aa/cenc.mpd
+#EXTVLCOPT:http-user-agent=Denver1769
+#EXTINF:-1 tvg-id="Amz.2857487963784935780195897" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2d613298-262a-42ed-a769-e267442a7aa6/3/BOXART-16X9/en-US._UR1920,1080_.jpg", Willow: New Zealand vs. India
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pog3pkfhga/out/v1/20164001c7d9489f898d05761ad05077/cenc.mpd
+#EXTVLCOPT:http-user-agent=Denver1769
+#EXTINF:-1 tvg-id="Amz.8057835211556273178551983" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.63c97416-9e71-4c56-a95d-9ef474669f7a/1/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Womens Big Bash League 2026 - 7th Match - Sydney Sixers Women vs Hobart Hurricanes Women
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vqu1w8f6e7/out/v1/f7d7ec07c208491681c1b6f68d0e823f/cenc.mpd
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/rsYyzsV2/Screenshot-2024-01-15-23-11-32-86-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 2
