@@ -7827,6 +7827,58 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|cookie=hdntl=
 #https://port.denver69.fun/Kids/shinchan.m3u8
 #EXTM3U
 
+#EXTINF:-1 tvg-id="4250521" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png", FC: United Arab Emirates vs Oman (ICC CWC League 2 UAE - 2026)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+
+
+#EXTINF:-1 tvg-id="4250555" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg", FC: Court 2 vs Paris, France (ATP Masters - Rolex Paris Masters 2026)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+
+
+#EXTINF:-1 tvg-id="4250556" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg", FC: Court 1 vs Paris, France (ATP Masters - Rolex Paris Masters 2026)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+
+
+#EXTINF:-1 tvg-id="4250557" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg", FC: World Feed vs Paris, France (ATP Masters - Rolex Paris Masters 2026)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+
+
+#EXTINF:-1 tvg-id="4250558" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg", FC: Court 3 vs Paris, France (ATP Masters - Rolex Paris Masters 2026)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+
+
+#EXTINF:-1 tvg-id="1090552110_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg",Sony: India vs New Zealand [ENG]
+#EXTVLCOPT:http-user-agent=Denver1769
+https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_0311/ENG/std_mdd-600300010.m3u8?hdnea=exp=1793778744~acl=/*~id=70070829947700139977278345513970~hmac=a8bf7c149ce89f63263af75ddf86d1165c5c11a6b60780b30b315aa4a4e09eeb
+
+#EXTINF:-1 tvg-id="1090552110_HIN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg",Sony: India vs New Zealand [HIN]
+#EXTVLCOPT:http-user-agent=Denver1769
+https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_0311/HIN/std_mdd-600300010.m3u8?hdnea=exp=1793778744~acl=/*~id=70070829947700139977278345513970~hmac=a8bf7c149ce89f63263af75ddf86d1165c5c11a6b60780b30b315aa4a4e09eeb
+
+#EXTINF:-1 tvg-id="1090552110_TAM" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg",Sony: India vs New Zealand [TAM]
+#EXTVLCOPT:http-user-agent=Denver1769
+https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_0311/ENG/std_mdd-600300010.m3u8?hdnea=exp=1793778744~acl=/*~id=70070829947700139977278345513970~hmac=a8bf7c149ce89f63263af75ddf86d1165c5c11a6b60780b30b315aa4a4e09eeb
+
+#EXTINF:-1 tvg-id="1090552110_TEL" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg",Sony: India vs New Zealand [TEL]
+#EXTVLCOPT:http-user-agent=Denver1769
+https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_0311/ENG/std_mdd-600300010.m3u8?hdnea=exp=1793778744~acl=/*~id=70070829947700139977278345513970~hmac=a8bf7c149ce89f63263af75ddf86d1165c5c11a6b60780b30b315aa4a4e09eeb
+
+#EXTINF:-1 tvg-id="1090552110_KAN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg",Sony: India vs New Zealand [KAN]
+#EXTVLCOPT:http-user-agent=Denver1769
+https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_0311/ENG/std_mdd-600300010.m3u8?hdnea=exp=1793778744~acl=/*~id=70070829947700139977278345513970~hmac=a8bf7c149ce89f63263af75ddf86d1165c5c11a6b60780b30b315aa4a4e09eeb
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ef90352c28904be995275bc47f74c04:af5e36ddef7584474601c19b4ae5935a
+#EXTINF:-1 tvg-id="amzn1.dv.gti.99ec681a-3141-49d1-8feb-512b02667fca" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.99ec681a-3141-49d1-8feb-512b02667fca/4/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: India tour of New Zealand 2026 - 1st ODI - New Zealand vs India
+#EXTVLCOPT:http-user-agent=Denver1769
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/s3eotogzpl/out/v1/3a421da823214ef99571a137c1035f04/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a028d5592b0e81f9c4fd4de4df6d5c7:9378d2ddd738b2d0b7a85ba65b643a7f
+#EXTINF:-1 tvg-id="Amz.2618632166286577793087707" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.99ec681a-3141-49d1-8feb-512b02667fca/4/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: India tour of New Zealand 2026 - 1st ODI - New Zealand vs India
+#EXTVLCOPT:http-user-agent=Denver1769
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pkooyxhqmr/out/v1/4c8d0ecc7d704eb2935efde33b289d50/cenc.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
