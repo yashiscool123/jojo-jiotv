@@ -7827,29 +7827,17 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|cookie=hdntl=
 #https://port.denver69.fun/Kids/shinchan.m3u8
 #EXTM3U
 
-#EXTINF:-1 tvg-id="4250559_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg", FC: ATP Masters - Rolex Paris Masters 2026 [English]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4250559_english_hls_cc6d0bad3541603_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793958336~_GO=Generated~acl=/mumbai/4250559_english_hls_cc6d0bad3541603_1ta-di_h264/*~SessionID=7814838588_watcho_14eda7e2-c2ca-42~Signature=AV7HGj5PlAK2ltq_nI6oXwfFCmCISuzem_lDXIjH0UtJ3jYnwB4eJvFcBmd5jIWNFgkmPZJn7QIZQIk957DyV_cASDsO
-
-#EXTINF:-1 tvg-id="4250560_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg", FC: ATP Masters - Rolex Paris Masters 2026 [English]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4250560_english_hls_bfc9da6b9213120_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793958337~_GO=Generated~acl=/mumbai/4250560_english_hls_bfc9da6b9213120_1ta-di_h264/*~SessionID=7814838588_watcho_f97cd118-dd94-4e~Signature=AV7HGj5hOwLW6e6r_wRsJD0XYNIjPthIjo6PfRYSQcVOjWRsZhjVrN2w81QsZEh43epjCTOYJ08hTKLA1PioTTGw7JAN
-
-#EXTINF:-1 tvg-id="4250561_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg", FC: ATP Masters - Rolex Paris Masters 2026 [English]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4250561_english_hls_fb1c637ed552842_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793958338~_GO=Generated~acl=/mumbai/4250561_english_hls_fb1c637ed552842_1ta-di_h264/*~SessionID=7814838588_watcho_adca8fc7-7181-4f~Signature=AV7HGj5kS-Eg1SsMFTaaRoBwIObzTB8XgjLLWh0QgNaAenBpL01OLnHx2SnygMau-bWhk3ed6GF-0EmOtIeonGsewgYJ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aead835bab8015836cc4c0c44f818c1d:67c32300c795f903993651e6e349a243
+#EXTINF:-1 tvg-id="amzn1.dv.gti.e3765ea5-0e60-45fc-90ee-8f1e560f4456" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e3765ea5-0e60-45fc-90ee-8f1e560f4456/2/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: USA Seniors Cricket NPL 2026 - 5th Match - Chicago Cavaliers vs Houston Saints
+#EXTVLCOPT:http-user-agent=Denver1769
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mhs2hkupef/out/v1/311627e2e2754675acc9da79dce25002/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=19c12ac698d39cac6c1d34b9547c8244:7f8e39928836f47ae5bc199f52841f6d
-#EXTINF:-1 tvg-id="amzn1.dv.gti.3f98b51a-087f-4074-bcb6-e12176c2bbc4" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3f98b51a-087f-4074-bcb6-e12176c2bbc4/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: USA Seniors Cricket NPL 2026 - 4th Match - Mighty Dallas vs Seattle Moose
+#KODIPROP:inputstream.adaptive.license_key=fa1594d6a8ffbc9587fff917249c7d1e:3252ef56c0e599888aa0164abeb48f07
+#EXTINF:-1 tvg-id="Amz.8814184953262058322860731" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e3765ea5-0e60-45fc-90ee-8f1e560f4456/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: USA Seniors Cricket NPL 2026 - 5th Match - Chicago Cavaliers vs Houston Saints
 #EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7xxmtcmxic/out/v1/0d24dc17400143518304ae3a14ad841c/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=502b22d3cada61e1dd3c24e4dc37b128:edbeec19a62d033903fe6436abfb9fd6
-#EXTINF:-1 tvg-id="Amz.5357718841654741186872364" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7cdc79e9-37f7-4576-abb3-baad628b810c/4/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe
-#EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vlzobzvvkt/out/v1/eec6a5c8a4af4ef098fd2e64a3c00c84/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kjxmjx6k1n/out/v1/e6f339b9073e41da84c611aa711bf63d/cenc.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
