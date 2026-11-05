@@ -7827,21 +7827,95 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|cookie=hdntl=
 #https://port.denver69.fun/Kids/shinchan.m3u8
 #EXTM3U
 
-#EXTINF:-1 tvg-id="4250603_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BWF-Korean-Open-web-2.png", FC: BWF Super 500 -  Korea Open 2026 [English]
+#EXTINF:-1 tvg-id="4250527" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg", FC: West Indies vs Bangladesh (West Indies tour of Bangladesh - 2026)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4250603_english_hls_ef3001b64b61956_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793926104~_GO=Generated~acl=/mumbai/4250603_english_hls_ef3001b64b61956_1ta-di_h264/*~SessionID=7814838588_watcho_02f7c744-36c6-41~Signature=AV7HGj5hFxdPFjDHkEoBUqOIgA8NGxmbA-Eh3_l7yHYxSKIDeuu39pz2Ch3P_BWGM5B6NI0I0_sCZBnTwDL1ikgMfZcI
+
+
+#EXTINF:-1 tvg-id="4249772" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-ZIM_Test_fc-web.jpg", FC: Zimbabwe vs Afghanistan (Zimbabwe Tour of Afghanistan in UAE - 2026)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+
+
+#EXTINF:-1 tvg-id="4250368" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250368_53124_LBL_JKB_fc-Web_1793616701591.jpg", FC: Lumbini Lions vs Janakpur Bolts (Nepal Premier League Season 3 - 2026)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+
+
+#EXTINF:-1 tvg-id="4250397" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250397_53125_ST-W_PS-W_fc-web_1793352702086.jpg", FC: Perth Scorchers Women vs Sydney Thunder Women (Women's Big Bash League - 2026)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+
+
+#EXTINF:-1 tvg-id="4250603" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BWF-Korean-Open-web-2.png", FC: Round of 16 vs Korea (BWF Super 500 -  Korea Open 2026)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+
+
+#EXTINF:-1 tvg-id="4250608" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aramco-China-Championship_Web-match-card.png", FC: Day 1 vs Mission Hills, China (Aramco China Championship 2026)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+
+
+#EXTINF:-1 tvg-id="1090552565_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028246/179378391827167_ACC_MensU19_Bangladesh_vs_Afghanistan_live_landscape_thumb.jpg",Sony: ACC Men's U19 Asia Cup [ENG]
+#EXTVLCOPT:http-user-agent=Denver1769
+https://dai.google.com/linear/hls/event/hjQCi_olTlOECIhRdlIpvA/master.m3u8
+
+#EXTINF:-1 tvg-id="1090552560_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028170/1793739045231457_ACC_MensU19_SL_vs_Malaysia_live_landscape_thumb.jpg",Sony: ACC Men's U19 Asia Cup [ENG]
+#EXTVLCOPT:http-user-agent=Denver1769
+https://dai.google.com/linear/hls/event/289XpT05TqS1xkA1I_kwvg/master.m3u8
+
+#EXTINF:-1 tvg-id="1090552580_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888667543682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day1_landscape_thumb.jpg",Sony: DP World Tour [ENG]
+#EXTVLCOPT:http-user-agent=Denver1769
+https://dai.google.com/linear/hls/event/r9AuvWOlQiutSds4aHM1uA/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5f1dd910503b77d2b95f3a4a9d66bc23:973bb7a92f8226cec362c562e4f5ee69
-#EXTINF:-1 tvg-id="amzn1.dv.gti.bc7c6e05-e59b-410f-807b-697cacd0f841" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bc7c6e05-e59b-410f-807b-697cacd0f841/2/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: USA Seniors Cricket NPL 2026 - 3rd Match - Austin Hunters vs Washington Eagles
+#KODIPROP:inputstream.adaptive.license_key=edbd9d6a45038d8031f8acda793333db:837f1272ecc58bd183c3adbbd64bf2ab
+#EXTINF:-1 tvg-id="amzn1.dv.gti.268ba0ac-7730-4981-a5de-e0f1aa9aeef3" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.268ba0ac-7730-4981-a5de-e0f1aa9aeef3/2/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Womens Big Bash League 2026 - 10th Match - Adelaide Strikers Women vs Brisbane Heat Women
 #EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vtyts3rbmk/out/v1/1f9cf085f0924bba8b39166256946456/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vdl7qnggrw/out/v1/792176d783684f11b78104195e6c5ece/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e47ceb54765083a28c09a2b62bf8447f:543f661537bb92a2767158513d3a6705
-#EXTINF:-1 tvg-id="Amz.5562635272828117897783902" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c92e6272-f4a8-41e4-b53b-7ea2a8fef0ac/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: USA Seniors Cricket NPL 2026 - 2nd Match - Mighty Dallas vs Chicago Cavaliers
+#KODIPROP:inputstream.adaptive.license_key=fe4433370f871d1acf788bc45f00aaf6:a14a6bd3e25ebba479ce4f4eb6efde49
+#EXTINF:-1 tvg-id="amzn1.dv.gti.166b89c9-7c55-4d53-90a5-ac30684230a1" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.166b89c9-7c55-4d53-90a5-ac30684230a1/2/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: ACC Mens U19 Asia Cup 2026 - 1st Match - Sri Lanka U19 vs Malaysia U19
 #EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uwfep5hlhr/out/v1/38785086c34c4936b868d81fac5abd52/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/opychdwszn/out/v1/2722f2e06c5942e0ad4ea44818bf8502/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fae761b0c5ef67a59615821085ad7973:0f7a54848617f4c747a2a3315ebef545
+#EXTINF:-1 tvg-id="amzn1.dv.gti.f27ac6f0-36de-4625-b95b-8d7a73a1a7bf" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f27ac6f0-36de-4625-b95b-8d7a73a1a7bf/2/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: ACC Mens U19 Asia Cup 2026 - 2nd Match - Bangladesh U19 vs Afghanistan U19
+#EXTVLCOPT:http-user-agent=Denver1769
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7bumgbz5ix/out/v1/0fa14926d3ff46478f00b458dbfa4621/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a4c70f4416d322e37111794d0a396b6:d23a4f2e632c458e7e1981d3fe41d852
+#EXTINF:-1 tvg-id="amzn1.dv.gti.7cdc79e9-37f7-4576-abb3-baad628b810c" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7cdc79e9-37f7-4576-abb3-baad628b810c/4/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe
+#EXTVLCOPT:http-user-agent=Denver1769
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vnbdbmfdnk/out/v1/b3a014fa36bb47e2a7d8edffa6bccc1c/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbc0324de5e4fcb8aabc07729816a4b6:949eb4ce5a269555f6deba9f20287c02
+#EXTINF:-1 tvg-id="amzn1.dv.gti.ab810664-fc94-4c19-98c0-2ab16473a298" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ab810664-fc94-4c19-98c0-2ab16473a298/1/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Womens Big Bash League 2026 - 11th Match - Sydney Thunder Women vs Perth Scorchers Women
+#EXTVLCOPT:http-user-agent=Denver1769
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xg7plxosmz/out/v1/8638c408373548199c40ecda794f8dc5/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=755296074254464e7c3aaee0f9189f0a:ed96b2f0b70c789daa69b64c1195ff3a
+#EXTINF:-1 tvg-id="Amz.9735465250098305741579669" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.268ba0ac-7730-4981-a5de-e0f1aa9aeef3/2/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Womens Big Bash League 2026 - 10th Match - Adelaide Strikers Women vs Brisbane Heat Women
+#EXTVLCOPT:http-user-agent=Denver1769
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vs0vobhvhe/out/v1/0704db5bfdf34b50bd44a02bda1984e7/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a16f4890e1a9a95d009f657f9d6837bb:e6e66c827c8a8c7d212db25ee49652e2
+#EXTINF:-1 tvg-id="Amz.1331318536729974346324612" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f27ac6f0-36de-4625-b95b-8d7a73a1a7bf/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: ACC Mens U19 Asia Cup 2026 - 2nd Match - Bangladesh U19 vs Afghanistan U19
+#EXTVLCOPT:http-user-agent=Denver1769
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0hfpjswn2b/out/v1/893e32416c4e4032af5750d252ece667/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0e32a565b4d079ce824ba8820ccb885:44d48862571d9efe14c24921e1d390c2
+#EXTINF:-1 tvg-id="Amz.5329879060338639956821457" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.166b89c9-7c55-4d53-90a5-ac30684230a1/2/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: ACC Mens U19 Asia Cup 2026 - 1st Match - Sri Lanka U19 vs Malaysia U19
+#EXTVLCOPT:http-user-agent=Denver1769
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mdkj3jq89s/out/v1/a7c4bc65fd8748cea3dc35ac4983726b/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=502b22d3cada61e1dd3c24e4dc37b128:edbeec19a62d033903fe6436abfb9fd6
+#EXTINF:-1 tvg-id="Amz.5357718841654741186872364" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7cdc79e9-37f7-4576-abb3-baad628b810c/4/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe
+#EXTVLCOPT:http-user-agent=Denver1769
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vlzobzvvkt/out/v1/eec6a5c8a4af4ef098fd2e64a3c00c84/cenc.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
