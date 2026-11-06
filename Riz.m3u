@@ -6633,32 +6633,16 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|Cookie=hdntl=
 #EXTINF:-1 tvg-id="Shinchan" tvg-logo="https://static.wikia.nocookie.net/crayonshinchan/images/3/36/Logo_slogan.png" group-title="Kids", Shinchan 24/7
 #EXTVLCOPT:http-user-agent=Denver1769
 #https://port.denver69.fun/Kids/shinchan.m3u8
-#EXTINF:-1 tvg-id="1090552768_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792884419195355_ISL26_FC_GOA_vs_Bengaluru_FC_live_landscape_thumb.jpg",Sony: MG Indian Super League [ENG]
-#EXTVLCOPT:http-user-agent=Denver1769
-https://dai.google.com/linear/hls/event/Gp5u9qINQICHN34l7pc3mA/master.m3u8
-#EXTINF:-1 tvg-id="1090552768_HIN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792884419195355_ISL26_FC_GOA_vs_Bengaluru_FC_live_landscape_thumb.jpg",Sony: MG Indian Super League [HIN]
-#EXTVLCOPT:http-user-agent=Denver1769
-https://dai.google.com/linear/hls/event/Gp5u9qINQICHN34l7pc3mA/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1dcfabc6b441908d78cc7106e30e906f:8e086929f79491b9a2076d0d04eb7317
-#EXTINF:-1 tvg-id="Amz.1290496203425452571594807" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9bf08245-f2fa-4124-918a-e78c07173414/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: ACC Mens U19 Asia Cup 2026 - 3rd Match - Pakistan U19 vs United Arab Emirates U19
+#KODIPROP:inputstream.adaptive.license_key=c12b0f20a43ba9a3d45d74feb6c3d172:e52ef03764245c47fa8acd9f2deb02f1
+#EXTINF:-1 tvg-id="amzn1.dv.gti.0baf8e5c-6894-4383-9d74-c60c2ef7a535" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0baf8e5c-6894-4383-9d74-c60c2ef7a535/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: USA Seniors Cricket NPL 2026 - 8th Match - Washington Eagles vs NY X-Factor
 #EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wozpxl0hif/out/v1/3e10012a4900435e8ceee9af3ededd33/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kcnrmzxdpn/out/v1/ee1a3f73b9bb466daa57794decfd2493/cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d52529b6ff19eca2315013244513b68:ba5c7dfad287aab538463d9da6811a8c
-#EXTINF:-1 tvg-id="Amz.4759455021390396269739754" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3a0de9d6-4ac7-4a6c-9e4d-83a2b84d5c3b/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: ACC Mens U19 Asia Cup 2026 - 4th Match - India U19 vs Nepal U19
+#KODIPROP:inputstream.adaptive.license_key=a6ef0d83683308a1e0273dcd091a36e9:b6110ea48b98af73e187c186a3123394
+#EXTINF:-1 tvg-id="Amz.6832303159306905081486973" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0baf8e5c-6894-4383-9d74-c60c2ef7a535/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: USA Seniors Cricket NPL 2026 - 8th Match - Washington Eagles vs NY X-Factor
 #EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3qvpw810gz/out/v1/e4b320f9ef924fe59188752dcf9c7fbf/cenc.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cf6092dc6444b182d9ef6fde4152ff7d:2a868d1944e597930dde32f183a0c6bf
-#EXTINF:-1 tvg-id="Amz.2246870093410083654069713" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7cdc79e9-37f7-4576-abb3-baad628b810c/6/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe
-#EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1vinczlx3q/out/v1/a69e7ace1a7649418dbd689bf6eba8d7/cenc.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2fcc4db0b53bea0a25def717c67cfe57:71ba2e8f5ea6cd6ad995206b300f051a
-#EXTINF:-1 tvg-id="Amz.7313513484479817447244638" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.65aa1b34-34f3-4280-9e07-9906c5142e8d/2/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Womens Big Bash League 2026 - 12th Match - Melbourne Stars Women vs Sydney Sixers Women
-#EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eeoqajsbsl/out/v1/836e6b3d718349e7af279aed4d3fdae6/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tlrwnbn6fm/out/v1/c4da76dbf9de4a589bd149133217523b/cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 1
