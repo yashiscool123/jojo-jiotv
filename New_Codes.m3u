@@ -3841,17 +3841,24 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|cookie=hdntl=
 #https://port.denver69.fun/Kids/doraemon.m3u8
 #EXTVLCOPT:http-user-agent=Denver1769
 #https://port.denver69.fun/Kids/shinchan.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d9898b922c715df238b810032f99e04:24ce2fd66d77c73540f129ae83c967d7
 #EXTVLCOPT:http-user-agent=Denver1769
-#EXTINF:-1 tvg-id="Amz.6695431922808742860722836" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.904507c1-17ab-40ca-bb74-220df1e3d76e/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd
+#EXTINF:-1 tvg-id="1090553938_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027744/179319485375513_UNL26_MD6_Portugal_vs_denmark_landscape_thumb.jpg",Sony: UEFA Nations League [ENG]
+https://dai.google.com/linear/hls/event/I5XBc1w8Q8q8JupBzkKpjA/master.m3u8
 #EXTVLCOPT:http-user-agent=Denver1769
-#EXTINF:-1 tvg-id="Amz.1750271844272541016711239" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c946453d-7025-4e95-9564-d2a336954242/5/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kyet9ip63b/out/v1/5442e2d930ff4dd18be5ba46198ac3f8/cenc.mpd
+#EXTINF:-1 tvg-id="1090553939_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027745/1793191749324232_UNL26_MD6_Romania_vs_Poland_landscape_thumb.jpg",Sony: UEFA Nations League [ENG]
+https://dai.google.com/linear/hls/event/N8hV26xoRFe_xYegH2wLGA/master.m3u8
 #EXTVLCOPT:http-user-agent=Denver1769
-#EXTINF:-1 tvg-id="Amz.3229320942648146376036364" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.417431d9-7f93-46ad-af9b-5a497c500e8c/2/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Womens Big Bash League 2026 - 22nd Match - Perth Scorchers Women vs Adelaide Strikers Women
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2f9zqcry51/out/v1/163efa3f1c454662865b51b74c98ebac/cenc.mpd
+#EXTINF:-1 tvg-id="1090553937_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027746/1793189705309704_UNL26_MD6_Sweden_vs_Bosnia_landscape_thumb.jpg",Sony: UEFA Nations League [ENG]
+https://dai.google.com/linear/hls/event/v6kGXEmTR_W2q41fkgfNWQ/master.m3u8
+#EXTVLCOPT:http-user-agent=Denver1769
+#EXTINF:-1 tvg-id="1090553941_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027743/1793197631827266_UNL26_MD6_Northern_Ireland_vs_Ukraine_landscape_thumb.jpg",Sony: UEFA Nations League [ENG]
+https://dai.google.com/linear/hls/event/79qh3ICzQYq-sEs08OwzxQ/master.m3u8
+#EXTVLCOPT:http-user-agent=Denver1769
+#EXTINF:-1 tvg-id="1090553940_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027714/1793196174591509_UNL26_MD6_Austria_vs_Republic_of_Ireland_Art_landscape_thumb.jpg",Sony: UEFA Nations League [ENG]
+https://dai.google.com/linear/hls/event/rikP86wPSUWKbP8ICtyRRg/master.m3u8
+#EXTVLCOPT:http-user-agent=Denver1769
+#EXTINF:-1 tvg-id="Amz.3218897119563549738038348" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b2815926-0840-49ba-b2e5-7b08229525a0/1/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Abu Dhabi T10 League 2026 - 18th Match - Yas Lions vs UAE Bulls
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/0py89u35kf/out/v1/f438820f38824212b6107dfd880773e6/cenc.mpd
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/rsYyzsV2/Screenshot-2024-01-15-23-11-32-86-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 2
