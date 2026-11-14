@@ -3841,24 +3841,17 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|cookie=hdntl=
 #https://port.denver69.fun/Kids/doraemon.m3u8
 #EXTVLCOPT:http-user-agent=Denver1769
 #https://port.denver69.fun/Kids/shinchan.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d9898b922c715df238b810032f99e04:24ce2fd66d77c73540f129ae83c967d7
 #EXTVLCOPT:http-user-agent=Denver1769
-#EXTINF:-1 tvg-id="1090553929_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg",Sony: ACC Men's U19 Asia Cup [ENG]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1411/ENG/std_mdd-600300010.m3u8?hdnea=exp=1794649602~acl=/*~id=92097840205827370485166423696874~hmac=0c3e4032642add221b4eb466331b8f3a9589498497bb00af8dedced5dbb835a5
+#EXTINF:-1 tvg-id="Amz.6695431922808742860722836" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.904507c1-17ab-40ca-bb74-220df1e3d76e/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd
 #EXTVLCOPT:http-user-agent=Denver1769
-#EXTINF:-1 tvg-id="1090553929_HIN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg",Sony: ACC Men's U19 Asia Cup [HIN]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_1411/HIN/std_mdd-600300010.m3u8?hdnea=exp=1794649602~acl=/*~id=92097840205827370485166423696874~hmac=0c3e4032642add221b4eb466331b8f3a9589498497bb00af8dedced5dbb835a5
+#EXTINF:-1 tvg-id="Amz.1750271844272541016711239" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c946453d-7025-4e95-9564-d2a336954242/5/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kyet9ip63b/out/v1/5442e2d930ff4dd18be5ba46198ac3f8/cenc.mpd
 #EXTVLCOPT:http-user-agent=Denver1769
-#EXTINF:-1 tvg-id="1090553929_TAM" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg",Sony: ACC Men's U19 Asia Cup [TAM]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1411/ENG/std_mdd-600300010.m3u8?hdnea=exp=1794649602~acl=/*~id=92097840205827370485166423696874~hmac=0c3e4032642add221b4eb466331b8f3a9589498497bb00af8dedced5dbb835a5
-#EXTVLCOPT:http-user-agent=Denver1769
-#EXTINF:-1 tvg-id="1090553929_TEL" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg",Sony: ACC Men's U19 Asia Cup [TEL]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1411/ENG/std_mdd-600300010.m3u8?hdnea=exp=1794649602~acl=/*~id=92097840205827370485166423696874~hmac=0c3e4032642add221b4eb466331b8f3a9589498497bb00af8dedced5dbb835a5
-#EXTVLCOPT:http-user-agent=Denver1769
-#EXTINF:-1 tvg-id="1090553929_KAN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg",Sony: ACC Men's U19 Asia Cup [KAN]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1411/ENG/std_mdd-600300010.m3u8?hdnea=exp=1794649602~acl=/*~id=92097840205827370485166423696874~hmac=0c3e4032642add221b4eb466331b8f3a9589498497bb00af8dedced5dbb835a5
-#EXTVLCOPT:http-user-agent=Denver1769
-#EXTINF:-1 tvg-id="1090553932_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398873589427_DP_World_Tour_Championship_Dubai_day3_landscape_thumb.jpg",Sony: DP World Tour [ENG]
-https://dai.google.com/linear/hls/event/RW16dPdwQkaWLEnliVIIrw/master.m3u8
+#EXTINF:-1 tvg-id="Amz.3229320942648146376036364" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.417431d9-7f93-46ad-af9b-5a497c500e8c/2/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Womens Big Bash League 2026 - 22nd Match - Perth Scorchers Women vs Adelaide Strikers Women
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2f9zqcry51/out/v1/163efa3f1c454662865b51b74c98ebac/cenc.mpd
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/rsYyzsV2/Screenshot-2024-01-15-23-11-32-86-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 2
