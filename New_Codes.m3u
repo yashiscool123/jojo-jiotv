@@ -3841,5 +3841,33 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|cookie=hdntl=
 #https://port.denver69.fun/Kids/doraemon.m3u8
 #EXTVLCOPT:http-user-agent=Denver1769
 #https://port.denver69.fun/Kids/shinchan.m3u8
-# Error fetching: https://game.playindia.fun/Jtv/addon.php
+#EXTVLCOPT:http-user-agent=Denver1769
+#EXTINF:-1 tvg-id="1090554160_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg",Sony: India vs New Zealand [ENG]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1411/ENG/std_mdd-600300010.m3u8?hdnea=exp=1794736809~acl=/*~id=53032922930588418399021164665838~hmac=6cae9daefa125e2712b91a2476c0f8c089e216344422e4d2112e4dcbef6499a1
+#EXTVLCOPT:http-user-agent=Denver1769
+#EXTINF:-1 tvg-id="1090554160_HIN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg",Sony: India vs New Zealand [HIN]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_1411/HIN/std_mdd-600300010.m3u8?hdnea=exp=1794736809~acl=/*~id=53032922930588418399021164665838~hmac=6cae9daefa125e2712b91a2476c0f8c089e216344422e4d2112e4dcbef6499a1
+#EXTVLCOPT:http-user-agent=Denver1769
+#EXTINF:-1 tvg-id="1090554160_TAM" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg",Sony: India vs New Zealand [TAM]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1411/ENG/std_mdd-600300010.m3u8?hdnea=exp=1794736809~acl=/*~id=53032922930588418399021164665838~hmac=6cae9daefa125e2712b91a2476c0f8c089e216344422e4d2112e4dcbef6499a1
+#EXTVLCOPT:http-user-agent=Denver1769
+#EXTINF:-1 tvg-id="1090554160_TEL" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg",Sony: India vs New Zealand [TEL]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1411/ENG/std_mdd-600300010.m3u8?hdnea=exp=1794736809~acl=/*~id=53032922930588418399021164665838~hmac=6cae9daefa125e2712b91a2476c0f8c089e216344422e4d2112e4dcbef6499a1
+#EXTVLCOPT:http-user-agent=Denver1769
+#EXTINF:-1 tvg-id="1090554160_KAN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg",Sony: India vs New Zealand [KAN]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1411/ENG/std_mdd-600300010.m3u8?hdnea=exp=1794736809~acl=/*~id=53032922930588418399021164665838~hmac=6cae9daefa125e2712b91a2476c0f8c089e216344422e4d2112e4dcbef6499a1
+#EXTVLCOPT:http-user-agent=Denver1769
+#EXTINF:-1 tvg-id="1090554163_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398880189427_DP_World_Tour_Championship_Dubai_day4_landscape_thumb.jpg",Sony: DP World Tour [ENG]
+https://dai.google.com/linear/hls/event/ZGqpKljKQFau0vp8fmia4A/master.m3u8
+#EXTVLCOPT:http-user-agent=Denver1769
+#EXTINF:-1 tvg-id="Amz.3473241451379505358574386" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.efd1e539-311e-4d71-a615-1e744d8c8d68/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Womens Big Bash League 2026 - 23rd Match -Sydney Sixers Women vs Melbourne Renegades Women
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mysvg9964s/out/v1/b7761cc505e84787832b2b55e90bbbf0/cenc.mpd
+#EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 1
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+#EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/rsYyzsV2/Screenshot-2024-01-15-23-11-32-86-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 2
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+#EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/NFWhWHGF/Screenshot-2024-01-15-23-12-20-61-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+#EXTINF:-1 group-title="Live events" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/TNT_Sports_4_logo.png",TNT Sports 4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 # Error fetching:
