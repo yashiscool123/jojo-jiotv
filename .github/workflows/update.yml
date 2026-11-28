@@ -1,0 +1,49 @@
+name: Update M3U Playlist Hourly
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Download Playlist using cURL
+        run: |
+          curl -s -L -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" \
+               -H "Referer: https://live-event-by-rtxcric.rtxcric.workers.dev/" \
+               "https://live-event-by-rtxcric.rtxcric.workers.dev/playlist.m3u" -o raw_playlist.m3u
+
+      - name: Process Playlist for NS Player
+        run: |
+          python process_playlist.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add bb.m3u
+          if git diff --staged --quiet; then
+            echo "No changes found in playlist."
+          else
+            git commit -m "Hourly update bb.m3u for NS Player [$(date '+%Y-%m-%d %H:%M:%S')]"
+            git push
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

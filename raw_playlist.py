@@ -1,0 +1,58 @@
+import sys
+import os
+
+INPUT_FILE = "raw_playlist.m3u"
+OUTPUT_FILE = "bb.m3u"
+
+DEFAULT_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+DEFAULT_REF = "https://server.lrl45.workers.dev/channel/raw?=m3u"
+
+def format_for_ns_player(raw_content):
+    lines = raw_content.splitlines()
+    formatted_lines = []
+    
+    if not any(line.strip().startswith("#EXTM3U") for line in lines):
+        formatted_lines.append("#EXTM3U")
+    
+    for line in lines:
+        cleaned = line.strip()
+        if not cleaned:
+            continue
+            
+        if cleaned.startswith("#EXTINF"):
+            formatted_lines.append(cleaned)
+            formatted_lines.append(f'#EXTVLCOPT:http-user-agent={DEFAULT_UA}')
+            formatted_lines.append(f'#EXTVLCOPT:http-referrer={DEFAULT_REF}')
+        elif cleaned.startswith("http"):
+            if "|" not in cleaned:
+                stream_url = f"{cleaned}|User-Agent={DEFAULT_UA}&Referer={DEFAULT_REF}"
+                formatted_lines.append(stream_url)
+            else:
+                formatted_lines.append(cleaned)
+        elif not cleaned.startswith("#EXTVLCOPT"):
+            formatted_lines.append(cleaned)
+            
+    return "\n".join(formatted_lines)
+
+def main():
+    if not os.path.exists(INPUT_FILE):
+        print(f"Error: {INPUT_FILE} not found!")
+        sys.exit(1)
+        
+    with open(INPUT_FILE, "r", encoding="utf-8", errors="ignore") as f:
+        content = f.read().strip()
+        
+    # ഫയൽ ഒഴിഞ്ഞതാണോ അതോ Cloudflare 403 ബ്ലോക്ക് പേജ് ആണോ എന്ന് പരിശോധിക്കുന്നു
+    if not content or "<!DOCTYPE html>" in content or "403 Forbidden" in content:
+        print("Error: Cloudflare blocked the download or file is empty.")
+        sys.exit(1)
+        
+    processed_content = format_for_ns_player(content)
+    
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        f.write(processed_content + "\n")
+        
+    print(f"Successfully generated {OUTPUT_FILE} for NS Player!")
+
+if __name__ == "__main__":
+    main()

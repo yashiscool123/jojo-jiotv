@@ -1,0 +1,42 @@
+name: Update SHOS.m3u
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download M3U Playlist
+        run: |
+          curl -L --fail --silent --show-error \
+            -A "Mozilla/5.0" \
+            "http://skyfilex.fun/get.php?username=AnKit3803&password=3803AnkIT&type=m3u_plus" \
+            -o SHOS.m3u
+
+          test -s SHOS.m3u
+          grep -q "#EXTM3U" SHOS.m3u
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add SHOS.m3u
+
+          if git diff --cached --quiet; then
+            echo "No changes found"
+          else
+            git commit -m "Update SHOS.m3u"
+            git push
+          fi
